@@ -6,8 +6,8 @@ import PackageDescription
 let package = Package(
     name: "Motion",
     platforms: [
-        .iOS(.v13),
-        .tvOS(.v13),
+        .iOS(.v12),
+        .tvOS(.v12),
         .macOS(.v10_14),
     ],
     products: [
